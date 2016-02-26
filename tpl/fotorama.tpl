@@ -1,0 +1,10 @@
+<div class="fotorama" id="c-w"
+data-nav="thumbs"
+data-height="100%"
+data-width="100%"
+data-ratio="800/600"
+data-fit="scaledown"
+data-transition="crossfade"
+data-hash="true"
+data-keyboard="true"
+data-loop="true">
